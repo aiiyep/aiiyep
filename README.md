@@ -26,8 +26,8 @@ Olá, eu sou o Gabriel, estudante do 4º período de Sistemas de Informação! S
 ### Github Stats 📊
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiiyep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiiyep&layout=compact&theme=dracula&v=2" />
+  <img src="https://github-readme-stats-aiiyep.vercel.app/api?username=aiiyep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-aiiyep.vercel.app/api/top-langs/?username=aiiyep&layout=compact&theme=dracula" />
 </div>
 
 <div align="right">
