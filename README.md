@@ -1,6 +1,6 @@
-### Welcome to my profile! 🤩
+### Bem vindo ao meu perfil!
 
-Olá 👋 Eu sou o Gabriel, estudante do 4º período de Sistemas de Informação! Sou apaixonado por desenvolvimento de software e tenho focado meus estudos em Java, Spring Boot e POO, além de criar projetos web (HTML, CSS, JS, Django) com propósitos reais, como para ONGs. Também sou um grande entusiasta de Linux e customização de sistemas. Fique à vontade para entrar em contato e dizer um "Olá Mundo!":
+Olá, eu sou o Gabriel, estudante do 4º período de Sistemas de Informação! Sou apaixonado por desenvolvimento de software e tenho focado meus estudos em Java, Spring Boot e POO, além de criar projetos web (HTML, CSS, JS, Django) com propósitos reais, como para ONGs. Também sou um grande entusiasta de Linux e customização de sistemas. Fique à vontade para entrar em contato e dizer um "Olá Mundo!":
 
 <a href="www.linkedin.com/in/gabriel-goncalveslima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 <a href="mailto:gabriel.by.lima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
